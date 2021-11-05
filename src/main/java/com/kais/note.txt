@@ -1,0 +1,10 @@
+学习顺序
+1.与数据库建立连接，JDBCUtil工具类的实现
+C:\BasicStudy\jdbc_core\src\main\java\com\kais\connection\ConnectionTest.java
+
+2.普通增删改
+C:\BasicStudy\jdbc_core\src\main\java\com\kais\CRUD\PreparedStatementUpdateTest.java
+
+3.通用增删改方法的实现
+C:\BasicStudy\jdbc_core\src\main\java\com\kais\CRUD\GeneralCUD.java
+

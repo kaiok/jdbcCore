@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ceb19a2-8f5e-4bae-8861-9d00a1ef3a67" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jdbccore" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Softwares\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1usmUf90LArLAX3ZIFueOYqS2Wv" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Java projects from idea/MyBatis-Study" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.26666668" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\BasicStudy\jdbc_core\src\main" />
+      <recent name="C:\BasicStudy\jdbc_core\src\main\java" />
+      <recent name="C:\BasicStudy\jdbc_core\src\main\java\com\kais" />
+      <recent name="C:\BasicStudy\jdbc_core\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java projects from idea\jdbc_core\libs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BatchTest.testOk">
+    <configuration name="BLOBTest.queryBlob" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kais.CRUD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kais.CRUD" />
+      <option name="MAIN_CLASS_NAME" value="com.kais.CRUD.BLOBTest" />
+      <option name="METHOD_NAME" value="queryBlob" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatchTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kais.CRUD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kais.CRUD" />
+      <option name="MAIN_CLASS_NAME" value="com.kais.CRUD.BatchTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatchTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kais.CRUD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kais.CRUD" />
+      <option name="MAIN_CLASS_NAME" value="com.kais.CRUD.BatchTest" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatchTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kais.CRUD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kais.CRUD" />
+      <option name="MAIN_CLASS_NAME" value="com.kais.CRUD.BatchTest" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatchTest.testOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kais.CRUD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kais.CRUD" />
+      <option name="MAIN_CLASS_NAME" value="com.kais.CRUD.BatchTest" />
+      <option name="METHOD_NAME" value="testOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BatchTest.testOk" />
+        <item itemvalue="JUnit.BatchTest.test04" />
+        <item itemvalue="JUnit.BatchTest.test03" />
+        <item itemvalue="JUnit.BatchTest.test02" />
+        <item itemvalue="JUnit.BLOBTest.queryBlob" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ceb19a2-8f5e-4bae-8861-9d00a1ef3a67" name="Default Changelist" comment="" />
+      <created>1625462687343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625462687343</updated>
+      <workItem from="1625462690196" duration="8589000" />
+      <workItem from="1625475147106" duration="52000" />
+      <workItem from="1625475306691" duration="2515000" />
+      <workItem from="1625477890102" duration="348000" />
+      <workItem from="1625478338912" duration="795000" />
+      <workItem from="1625534016844" duration="249000" />
+      <workItem from="1625535177834" duration="12002000" />
+      <workItem from="1625562316948" duration="77000" />
+      <workItem from="1625562540397" duration="11000" />
+      <workItem from="1625794306319" duration="3109000" />
+      <workItem from="1625883183288" duration="496000" />
+      <workItem from="1626156422841" duration="227000" />
+      <workItem from="1626162556399" duration="799000" />
+      <workItem from="1626179557309" duration="592000" />
+      <workItem from="1626535822602" duration="656000" />
+      <workItem from="1626573034271" duration="5452000" />
+      <workItem from="1626655666598" duration="1214000" />
+      <workItem from="1626767800351" duration="363000" />
+      <workItem from="1626919981088" duration="13660000" />
+      <workItem from="1627182520884" duration="625000" />
+      <workItem from="1628559006410" duration="11000" />
+      <workItem from="1629077040307" duration="998000" />
+      <workItem from="1629091760436" duration="10315000" />
+      <workItem from="1629106666045" duration="941000" />
+      <workItem from="1629160546925" duration="13626000" />
+      <workItem from="1629213091683" duration="3784000" />
+      <workItem from="1629249626842" duration="7000" />
+      <workItem from="1629251049033" duration="686000" />
+      <workItem from="1629294350881" duration="109000" />
+      <workItem from="1629294473516" duration="6283000" />
+      <workItem from="1629337465757" duration="27000" />
+      <workItem from="1629341642582" duration="2179000" />
+      <workItem from="1629343948430" duration="927000" />
+      <workItem from="1629344983976" duration="197000" />
+      <workItem from="1629345210906" duration="3807000" />
+      <workItem from="1629381258457" duration="3732000" />
+      <workItem from="1629421628145" duration="15000" />
+      <workItem from="1629444537759" duration="6291000" />
+      <workItem from="1629948525211" duration="2295000" />
+      <workItem from="1630025617376" duration="14000" />
+      <workItem from="1630545684070" duration="1450000" />
+      <workItem from="1630660420438" duration="1279000" />
+      <workItem from="1630742352704" duration="596000" />
+      <workItem from="1630890678554" duration="4899000" />
+      <workItem from="1631514649522" duration="1021000" />
+      <workItem from="1631581703370" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="var2" />
+        <watch expression="name" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
